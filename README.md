@@ -6,7 +6,15 @@
   <img src="https://img.shields.io/badge/Plotly-Visualization-purple?style=for-the-badge&logo=plotly"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
 </p>
+## 🎬 Demo
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1eqER7N7L7Ajl2Gc027AVb_qlAyxieg9R/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
+> Click the button above to watch the full 3D drone navigation demo — includes live flight path animation over mountain terrain with radar coverage overlay.
 ## 📌 Overview
 
 CEAADN addresses a core challenge in autonomous drone navigation: how to fly from point A to point B while **simultaneously minimizing energy consumption, avoiding radar detection, handling wind resistance, and navigating terrain hazards** — all in real time.
