@@ -1,4 +1,11 @@
 # Cognitive-Energy-Aware-Adversarial-Drone-Navigation
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/Stable--Baselines3-PPO-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-Visualization-purple?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+</p>
 
 ## 📌 Overview
 
